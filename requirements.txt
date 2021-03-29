@@ -51,7 +51,7 @@ Pillow==7.1.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 pyOpenSSL==19.1.0
 pyrsistent==0.16.0
